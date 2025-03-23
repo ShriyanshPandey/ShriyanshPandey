@@ -8,7 +8,7 @@
 
 <h2 align="left">
   Hi, I am Shriyansh Pandy and I'm an AWS cloud & DevOps Engineer
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ShriyanshPandey.ShriyanshPandey&left_text=Profile%20Views&left_color=black&right_color=mediumblue" width="100" height="20"/>
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ShriyanshPandey.ShriyanshPandey&left_text=Profile%20Views&left_color=black&right_color=mediumblue" width="120" height="25"/>
 </h2>
 
 ###
