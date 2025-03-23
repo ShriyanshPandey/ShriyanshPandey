@@ -101,7 +101,7 @@
 ###
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ShriyanshPandey.ShriyanshPandey&right_color=yellow&left_text=Profile%20Views"  />
-
+<br><br>
 ###
 
 <!-- <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  /> -->
@@ -113,8 +113,11 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShriyanshPandey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1&custom_title=Stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShriyanshPandey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&order=2&custom_title=Languages" height="150" alt="languages graph"  />
+  <br><br>
   <img src="https://streak-stats.demolab.com?user=ShriyanshPandey&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=7&order=3" height="150" alt="streak graph"  />
+  <br><br>
   <img src="https://github-profile-trophy.vercel.app?username=ShriyanshPandey&theme=darkhub&column=3&row=1&margin-w=10&margin-h=20&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShriyanshPandey&radius=16&theme=github-dark&area=true&order=5&custom_title=Contribution%20Graph&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
