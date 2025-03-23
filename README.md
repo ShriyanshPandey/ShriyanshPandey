@@ -8,7 +8,7 @@
 
 <h2 align="left">
   Hi, I am Shriyansh Pandy and I'm an AWS cloud & DevOps Engineer
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ShriyanshPandey.ShriyanshPandey&left_color=black&right_color=mediumblue" width="150" height="30"/>
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ShriyanshPandey.ShriyanshPandey&left_color=black&right_color=mediumblue" width="100" height="25"/>
 </h2>
 
 ###
@@ -100,7 +100,7 @@
 <!-- <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  /> -->
 
 ###
-<p align="left"> 📊 Github Stats!</p>
+<h3 align="left"> 📊 Github Stats!</h3>
 <br clear="both">
 
 <div align="center">
