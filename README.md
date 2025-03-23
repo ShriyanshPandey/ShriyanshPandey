@@ -79,7 +79,7 @@
 
 <!-- <br clear="both"> -->
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-  <div>
+  <div style="display: flex; gap: 10px;">
     <a href="https://www.linkedin.com/in/ShriyanshPandey" target="_blank">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
     </a>
