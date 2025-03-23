@@ -95,7 +95,7 @@
 
 ###
 <div style="display: flex; justify-content: left;">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ShriyanshPandey.ShriyanshPandey&right_color=yellow&left_text=Profile%20Views" width="200" height="50"/> <br><br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ShriyanshPandey.ShriyanshPandey&right_color=yellow&left_text=Profile%20Views" width="150" height="30"/> <br><br>
 </div>
 
 <!-- <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ShriyanshPandey.ShriyanshPandey&right_color=yellow&left_text=Profile%20Views"  /> <br><br> -->
