@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<h3 align="left">Hi, I am Shriyansh Pandey and I'm an AWS cloud & DevOps Engineer</h3>
+<h3 align="left">Hi, I am Shriyansh Pandy and I'm an AWS cloud & DevOps Engineer</h3>
 
 ###
 
