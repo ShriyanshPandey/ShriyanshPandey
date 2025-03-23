@@ -77,7 +77,7 @@
 
 ###
 
-<br clear="both">
+<!-- <br clear="both"> -->
 <div align="left">
   <a href="https://www.linkedin.com/in/ShriyanshPandey" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
@@ -94,7 +94,7 @@
 </div>
 
 ###
-<div style="display: flex; justify-content: left;">
+<div style="display: flex; justify-content: right;">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ShriyanshPandey.ShriyanshPandey&right_color=yellow&left_text=Profile%20Views" width="150" height="30"/> <br><br>
 </div>
 
