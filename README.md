@@ -7,7 +7,11 @@
 
 <br clear="both">
 
-<h3 align="left">Hi, I am Shriyansh Pandy and I'm an AWS cloud & DevOps Engineer</h3>
+<h3 align="left">
+  Hi, I am Shriyansh Pandy and I'm an AWS cloud & DevOps Engineer
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ShriyanshPandey.ShriyanshPandey&right_color=yellow&left_text=Profile%20Views" width="150" height="30"/>
+</h3>
+</h3>
 
 ###
 
