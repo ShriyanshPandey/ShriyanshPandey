@@ -1,17 +1,15 @@
 <div align="center">
   <img height="200" src="image.png"  />
-  <!-- ![Alt Text](image.png) -->
 </div>
 
 ###
 
 <br clear="both">
 
-<h3 align="left">
+<h2 align="left">
   Hi, I am Shriyansh Pandy and I'm an AWS cloud & DevOps Engineer
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ShriyanshPandey.ShriyanshPandey&right_color=yellow&left_text=Profile%20Views" width="150" height="30"/>
-</h3>
-</h3>
+</h2>
 
 ###
 
@@ -96,13 +94,6 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="discord logo"  />
   </a>
 </div>
-
-<div>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ShriyanshPandey.ShriyanshPandey&right_color=yellow&left_text=Profile%20Views" width="150" height="30"/> <br><br>
-</div>
-
-
-<!-- <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ShriyanshPandey.ShriyanshPandey&right_color=yellow&left_text=Profile%20Views"  /> <br><br> -->
 
 ###
 
