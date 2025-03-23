@@ -78,26 +78,34 @@
 ###
 
 <!-- <br clear="both"> -->
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-  <div style="display: flex; gap: 10px;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  
+  <!-- Social Media Badges (Left Side) -->
+  <div style="display: inline-block;">
     <a href="https://www.linkedin.com/in/ShriyanshPandey" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40"/>
     </a>
+    
     <a href="mailto:shriyanshpandey16043@gmail.com" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="gmail logo"  />
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40"/>
     </a>
+
     <a href="https://www.instagram.com/shriyansh_pandey_1" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="40" alt="instagram logo"  />
+      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="40"/>
     </a>
+
     <a href="https://discord.com/users/1352574332232142920" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="discord logo"  />
+      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40"/>
     </a>
   </div>
 
-  <div>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=ShriyanshPandey.ShriyanshPandey&right_color=yellow&left_text=Profile%20Views" width="150" height="30"/> <br><br>
+  <!-- Profile View Counter (Right Side) -->
+  <div style="display: inline-block;">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ShriyanshPandey.ShriyanshPandey&right_color=yellow&left_text=Profile%20Views" width="180" height="40"/>
   </div>
+
 </div>
+
 
 <!-- <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ShriyanshPandey.ShriyanshPandey&right_color=yellow&left_text=Profile%20Views"  /> <br><br> -->
 
