@@ -97,7 +97,7 @@
   </a>
   
   <!-- Profile Counter (Right Side) -->
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ShriyanshPandey.ShriyanshPandey&right_color=yellow&left_text=Profile%20Views" width="180" height="40"/>
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ShriyanshPandey.ShriyanshPandey&right_color=yellow&left_text=Profile%20Views" width="150" height="30"/>
 </p>
 
 
