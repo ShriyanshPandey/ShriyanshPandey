@@ -20,7 +20,8 @@
 
 <h3 align="left">👨🏻‍💻 Tech Stack :</h3>
 
-###
+### 
+
 <br clear="both">
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -74,7 +75,7 @@
 <br clear="both">
 <h3 align="left">🤝 Contact me : )</h3>
 
-###
+### 
 
 <br clear="both">
 <div style="display: flex; gap: 10px;">
@@ -99,6 +100,8 @@
 ###
 <h3 align="left"> 📊 Github Stats!</h3>
 <br clear="both">
+
+### 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShriyanshPandey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1&custom_title=Stats" height="150" alt="stats graph"  />
