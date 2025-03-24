@@ -12,17 +12,15 @@
 </h2>
 
 <h5>
-💼 Cloud & Devops enthusiast
-🏆 AWS Certified SAA-C03
-🚀 Turning Ideas into Scalable Cloud Solutions
-🎓 Undergradtuate at Bennett University
+  <ul>
+    <li>💼 Cloud & Devops enthusiast</li>
+    <li>🏆 AWS Certified SAA-C03</li>
+    <li>🚀 Turning Ideas into Scalable Cloud Solutions</li>
+    <li>🎓 Undergradtuate at Bennett University</li>
+  </ul>
 </h5>
 
 ###
-
-<br clear="both">
-
-<h6 align="left">paragraph</h6>
 
 ###
 
