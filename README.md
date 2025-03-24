@@ -7,11 +7,9 @@
 <br clear="both">
 
 <h2 align="left">
-  Hi, I am Shriyansh Pandy
+  Hi, I am Shriyansh Pandey
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ShriyanshPandey.ShriyanshPandey&left_text=Profile%20Views&left_color=black&right_color=mediumblue" width="120" height="25"/>
 </h2>
-
-###
 
 💼 Cloud & DevOps Enthusiast
 🏆 AWS Certified SAA-C03
