@@ -11,12 +11,10 @@
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ShriyanshPandey.ShriyanshPandey&left_text=Profile%20Views&left_color=black&right_color=mediumblue" width="120" height="25"/>
 </h2>
 <h5>
-  <ul style="list-style: none; padding: 0; margin: 0;">
-    <li>💼 Cloud & DevOps Enthusiast</li>
-    <li>🏆 AWS Certified SAA-C03</li>
-    <li>🚀 Turning Ideas into Scalable Cloud Solutions</li>
-    <li>🎓 Undergraduate at Bennett University</li>
-  </ul>
+    💼 Cloud & DevOps Enthusiast
+    🏆 AWS Certified SAA-C03
+    🚀 Turning Ideas into Scalable Cloud Solutions
+    🎓 Undergraduate at Bennett University
 </h5>
 
 <br clear="both">
