@@ -10,19 +10,14 @@
   Hi, I am Shriyansh Pandy
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ShriyanshPandey.ShriyanshPandey&left_text=Profile%20Views&left_color=black&right_color=mediumblue" width="120" height="25"/>
 </h2>
-
 <h5>
   <ul>
-    <li>💼 Cloud & Devops enthusiast</li>
-    <li>🏆 AWS Certified SAA-C03</li>
-    <li>🚀 Turning Ideas into Scalable Cloud Solutions</li>
-    <li>🎓 Undergradtuate at Bennett University</li>
+    💼 Cloud & Devops enthusiast
+    🏆 AWS Certified SAA-C03
+    🚀 Turning Ideas into Scalable Cloud Solutions
+    🎓 Undergradtuate at Bennett University
   </ul>
 </h5>
-
-###
-
-###
 
 <br clear="both">
 
