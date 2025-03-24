@@ -7,9 +7,16 @@
 <br clear="both">
 
 <h2 align="left">
-  Hi, I am Shriyansh Pandy and I'm an AWS cloud & DevOps Engineer
+  Hi, I am Shriyansh Pandy
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ShriyanshPandey.ShriyanshPandey&left_text=Profile%20Views&left_color=black&right_color=mediumblue" width="120" height="25"/>
 </h2>
+
+<h5>
+💼 Cloud & Devops enthusiast
+🏆 AWS Certified SAA-C03
+🚀 Turning Ideas into Scalable Cloud Solutions
+🎓 Undergradtuate at Bennett University
+</h5>
 
 ###
 
